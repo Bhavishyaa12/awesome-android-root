@@ -114,6 +114,8 @@ A comprehensive guide covering different rooting methods, decision-making and di
 - **[Wa Revamp](https://github.com/Xposed-Modules-Repo/its.madruga.warevamp)** - Add various functions like download staus and view once, hide read message, Statuses and
 Archived Chats to official WhatsApp. `FOSS` `[LP]`
 - **[X](https://github.com/Xposed-Modules-Repo/cn.android.x)** - Add extra features to Wechat. `FOSS` `[LP]`
+-
+**[Snapenhance](https://github.com/rhunk/SnapEnhance)** - Enhance your snapchat experience by this module.`FOSS` `[LP]`
 
 
 #### Other App Mods
